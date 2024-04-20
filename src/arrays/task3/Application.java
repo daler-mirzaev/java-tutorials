@@ -1,4 +1,4 @@
-package task3;
+package arrays.task3;
 
 public class Application {
 
